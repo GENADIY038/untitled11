@@ -13,4 +13,5 @@ class View {
         return x * CornField.area
 
     }
+    
 }
