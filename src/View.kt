@@ -12,5 +12,6 @@ class View {
     fun sell(x: Int): Float{
         return x * CornField.area
 
-    }
+    }//илюха чмо
+    
 }
